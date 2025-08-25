@@ -20,13 +20,13 @@ function responder(estilo) {
       jogador = {
         nome: "Sergio Ramos",
         imagem: "img/sergio.png",
-        descricao: "Você não deixa as bolas passar ."
+        descricao: "Você aguenta levar bolada calado ."
       };
       break;
     case 'goleiro':
       jogador = {
         nome: "Cortua",
-        imagem: "img/cortu.png",
+        imagem: "img/cortuu.png",
         descricao: "Você adora pegas nas bolas!"
       };
       break;
