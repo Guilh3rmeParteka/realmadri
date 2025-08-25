@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Qual jogador do Real Madrid você seria?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Qual jogador do Real Madrid você seria?</h1>
+    <div id="quiz">
+      <p><strong>Qual é o seu estilo de jogo?</strong></p>
+      <button onclick="responder('ataque')">Rápido e driblador</button>
+      <button onclick="responder('meio')">Criativo e inteligente</button>
+      <button onclick="responder('defesa')">Forte e confiável</button>
+      <button onclick="responder('goleiro')">Seguro e estratégico</button>
+    </div>
+    <div id="resultado" class="hidden">
+      <h2 id="jogador-nome"></h2>
+      <img id="jogador-img" src="" alt="Jogador do Real Madrid">
+      <p id="jogador-desc"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
