@@ -13,7 +13,7 @@ function responder(estilo) {
       jogador = {
         nome: "Toni Kroos",
         imagem: "img/toni.png",
-        descricao: "Você controla o jogo com classe e inteligência!"
+        descricao: "Você pega nas bolas como ninguém!"
       };
       break;
     case 'defesa':
