@@ -12,21 +12,21 @@ function responder(estilo) {
     case 'meio':
       jogador = {
         nome: "Toni Kroos",
-        imagem: "img/toni.jpg",
+        imagem: "img/toni.png",
         descricao: "Você controla o jogo com classe e inteligência!"
       };
       break;
     case 'defesa':
       jogador = {
         nome: "Sergio Ramos",
-        imagem: "img/sergio.jpg",
+        imagem: "img/sergio.png",
         descricao: "Você é o muro da defesa, sempre confiável."
       };
       break;
     case 'goleiro':
       jogador = {
         nome: "Navas",
-        imagem: "img/cortu.jpg",
+        imagem: "img/cortu.png",
         descricao: "Você é o último obstáculo. Calmo, estratégico e seguro!"
       };
       break;
