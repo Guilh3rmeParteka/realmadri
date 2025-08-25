@@ -5,8 +5,8 @@ function responder(estilo) {
     case 'ataque':
       jogador = {
         nome: "CR7",
-        imagem: "img/cr7.png",
-        descricao: "Você é habilidoso, rápido e imprevisível no ataque!"
+        imagem: "img/cr7.jpg",
+        descricao: "SIUUUUUUUUUUUU!"
       };
       break;
     case 'meio':
